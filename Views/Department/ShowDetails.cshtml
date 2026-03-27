@@ -1,0 +1,16 @@
+﻿@using StudentSystem.Models
+@model Department
+@{
+    ViewData["Title"] = "ShowDetails";
+}
+
+<h1>Show Department Details</h1>
+<p>Id: @Model.Id</p>
+<p>Name: @Model.Name</p>
+<p>MgrName: @Model.MgrName</p>
+
+<h2>Students</h2>
+@foreach (var student in Model.Students)
+{
+    <p>@student.Name</p>    
+}

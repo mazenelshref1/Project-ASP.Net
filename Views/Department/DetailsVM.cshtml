@@ -1,0 +1,16 @@
+﻿@using StudentSystem.ViewModels
+@model DepartmentWithStudentsVM
+
+<h2>Department ViewModel</h2>
+
+<p>Department Name: @Model.DeptName</p>
+<p>State: @Model.State</p>
+
+<label>Students Grater than 21:</label>
+<select>
+    @foreach (var item in Model.StudentNames)
+    {
+        <option>@item</option>
+    }
+</select>
+

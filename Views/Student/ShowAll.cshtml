@@ -1,0 +1,11 @@
+﻿@model List<StudentSystem.Models.Student>
+
+<h2>All Students</h2>
+
+@foreach (var item in Model)
+{
+    <p>
+        @item.Name
+        <a href="/Student/ShowDetails?id=@item.Id">Details</a>
+    </p>
+}
