@@ -1,0 +1,27 @@
+﻿@using StudentSystem.ViewModels
+@model StudentWithDeptListVM
+
+<form method="post" action="/Student/Add">
+    <div>
+        <label>Name</label>
+        <input type="text" name="Name" value="@Model?.Name" />
+    </div>
+
+    <div>
+        <label>Age</label>
+        <input type="number" name="Age" value="@Model?.Age" />
+    </div>
+
+    <div>
+        <label>Department</label>
+        <select name="DepartmentId">
+            @foreach (var dept in Model.Departments)
+            {
+                <option value="@dept.Id">@dept.Name</option>
+            }
+        </select>
+    </div>
+
+    <input type="submit" value="Add" />
+</form>
+

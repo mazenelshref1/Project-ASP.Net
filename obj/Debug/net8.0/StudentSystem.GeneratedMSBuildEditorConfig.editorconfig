@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = StudentSystem
+build_property.RootNamespace = StudentSystem
+build_property.ProjectDir = D:\Project - ASP.Net\StudentSystem\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Project - ASP.Net\StudentSystem
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Project - ASP.Net/StudentSystem/Views/Department/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project - ASP.Net/StudentSystem/Views/Department/DetailsVM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzVk0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project - ASP.Net/StudentSystem/Views/Department/ShowAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxTaG93QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project - ASP.Net/StudentSystem/Views/Department/ShowDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxTaG93RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project - ASP.Net/StudentSystem/Views/Student/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project - ASP.Net/StudentSystem/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project - ASP.Net/StudentSystem/Views/Student/ShowAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTaG93QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project - ASP.Net/StudentSystem/Views/Student/ShowDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTaG93RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
